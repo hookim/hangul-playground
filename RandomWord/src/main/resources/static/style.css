@@ -1,0 +1,26 @@
+html{
+	height : 100%;
+}
+body{
+	height : 100%;
+	align-content: center;
+}
+
+
+.main{
+	margin : auto;
+	display : flex;
+	justify-content: center;
+	
+	margin-top : 30px;
+}
+
+#display{
+	display : block;
+	width : 100%;
+	text-align: center;
+}
+
+.main__elements{
+	display : block;	
+}
